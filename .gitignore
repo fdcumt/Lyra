@@ -1,0 +1,13 @@
+Intermediate
+DerivedDataCache
+Saved
+Build
+.vs
+.idea
+Binaries
+Platforms
+Content
+
+
+*.sln
+/ALSV/Build
