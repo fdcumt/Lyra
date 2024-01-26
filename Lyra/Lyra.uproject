@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "{0390352C-462A-F642-2EBE-3E9BD2F6594A}",
 	"Category": "Samples",
 	"Description": "",
 	"Modules": [
@@ -156,10 +156,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": false
-		},
-		{
 			"Name": "OpenXREyeTracker",
 			"Enabled": false
 		},
@@ -308,6 +304,30 @@
 		},
 		{
 			"Name": "ShooterTests",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualAnimation",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviorSmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviors",
 			"Enabled": true
 		}
 	],
